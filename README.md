@@ -6,7 +6,7 @@ criar um cartão de ordem de pedido com conhecimentos que tenho estudado
 
 ### Screenshot
 
- ![](./imagens/screenshot.jpg)
+ ![](/screenshot.jpg)
 
 
 ## Author
